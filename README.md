@@ -5,9 +5,9 @@
 ## 🛠️ Skills and Expertise
 - **Manual Testing**: Extensive experience in performing **in-sprint testing**, **regression testing**, **User Acceptance Testing (UAT)**, and **end-to-end testing**. I ensure the software meets business requirements by carefully designing test cases, executing them, and providing detailed reports.
   
-- **UI Automation**: Proficient in automating web and mobile UI tests across browsers and devices using tools like **Cypress**, **Selenium WebDriver**, and **Appium**. I develop robust, scalable test scripts to ensure smooth user interfaces and flawless functionality.
+- **UI Automation**: Proficient in automating web and mobile UI tests across browsers and devices using tools like **Playwright**, **Cypress**, **Selenium WebDriverIO**, **Selenium WebDriver**, and **Appium**. I develop robust, scalable test scripts to ensure smooth user interfaces and flawless functionality.
 
-- **API Automation**: Expertise in automating API testing using **Cucumber.js** and **Gherkin** syntax. I focus on ensuring data integrity and API reliability through structured test cases using tools like **Postman** and **Swagger UI**.
+- **API Automation**: Expertise in automating API testing using **Cucumber.js** and **Gherkin** syntax and **JavaScript** and **Mocha Framework**. I focus on ensuring data integrity and API reliability through structured test cases using tools like **Postman** and **Swagger UI**
 
 - **Performance Testing**: Skilled in using **k6** and **Datadog** for load and stress testing, ensuring system performance under different workloads and monitoring stability and scalability.
 
@@ -25,18 +25,18 @@ I enjoy sharing my knowledge with others and have onboarded newcomers, led QA wo
 - **Bachelor's Degree in Computer Science** - Goce Delcev University (2012-2016)
 
 ## 🛠️ Tools & Technologies
-- **Manual Testing**: Jira, TestRail, Confluence
-- **UI Automation**: **Cypress**, **Selenium WebDriver**, **Appium**
-- **API Automation**: **Cucumber.js**, **Gherkin**, **Postman**, **Swagger**
+- **Manual Testing**: Jira, TestRail, Confluence, Qase.io, VSTS (Azure DevOps) etc.
+- **UI Automation**: **Cypress**, **Selenium WebDriver**, **Appium**, **Playwright**, **NUnit**
+- **API Automation**: **Cucumber.js**, **Gherkin**, **Postman**, **Swagger**, **Mocha**
 - **Performance Testing**: **k6**, **Datadog**, **Grafana**
-- **Development**: **JavaScript**, **Node.js**, **Oracle**, **MySQL**
+- **Development**: **JavaScript**, **Node.js**, **Oracle**, **MySQL**, **C##**
 - **Version Control**: **Git**, **Bitbucket**, **GitHub**
 
 ## 📈 Projects
 - **“Izvrsitel” Desktop Application**: QA Engineer and Developer for law enforcement software in Macedonia, combining **manual testing** and **backend testing**.
 - **“Voziloo.mk” Web Platform**: QA Engineer for a large-scale vehicle e-commerce platform used across Europe. Handled **manual testing** and **API automation** for cross-browser compatibility.
 
-Check out my repositories on **[GitHub](https://github.com/davvidovski?tab=repositories)** to see my work with **manual testing**, **UI automation**, **API testing**, and **performance testing**!
+Check out my repositories on **[GitHub](https://github.com/davvidovski?tab=repositories)** to see my work with **UI automation**, **API testing**, and **Performance testing**!
 
 ## 🌐 Let's Connect!
 - **[LinkedIn](https://linkedin.com/in/aleksandar-davidovski)**
